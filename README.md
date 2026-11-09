@@ -26,6 +26,9 @@ step: 4960 loss: 0.021194055676460266
 step: 4970 loss: 0.015712479129433632
 step: 4980 loss: 0.01804790087044239
 step: 4990 loss: 0.0163379218429327
+.
+.
+.
 ```
 
 > FOSS. Thanks to their very untalkative owner. 
