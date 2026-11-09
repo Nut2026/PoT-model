@@ -1,0 +1,13 @@
+# Virtual environments
+venv/
+.venv/
+
+# Training files
+*.pt
+
+# Logs
+logs/
+*.log
+
+# Cache
+__pycache__/
