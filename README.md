@@ -1,5 +1,5 @@
 ## PoT 
-The gen's next utterly talkative model? Proudly PoT - a.k.a Parrot! Brace your terminal for its yapping!
+The gen's next utterly talkative model? Proudly PoT - a.k.a Parrot. Brace your terminal for its yapping!
 
 ```
 .
