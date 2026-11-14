@@ -30,5 +30,3 @@ step: 4990 loss: 0.0163379218429327
 .
 .
 ```
-
-> FOSS. Thanks to their very untalkative owner. 
